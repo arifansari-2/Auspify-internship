@@ -1,0 +1,7 @@
+NETFLIX CONTENT RATING AND GENRE ANALYSIS
+
+1. Total valid Netflix titles analyzed: 8,790.
+2. Movies: 6,126 | TV Shows: 2,664.
+3. Most common rating: TV-MA (3,205 titles).
+4. Most common genre: International Movies (2,752 title associations).
+5. Dataset contains 14 rating categories and 42 different genres.
